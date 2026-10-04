@@ -1,0 +1,6 @@
+{
+  "name": "UHV Sadhana",
+  "description": "Smart Universal Human Values Learning & Reflection Platform for NBKRIST",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
